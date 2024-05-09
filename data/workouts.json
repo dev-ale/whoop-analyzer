@@ -1,0 +1,3888 @@
+[
+    {
+        "id": 1038816179,
+        "user_id": 15299223,
+        "created_at": "2024-05-08T20:10:37.010Z",
+        "updated_at": "2024-05-08T20:10:40.344Z",
+        "start": "2024-05-08T19:12:00.000Z",
+        "end": "2024-05-08T19:20:00.000Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.2664,
+            "average_heart_rate": 106,
+            "max_heart_rate": 128,
+            "kilojoule": 127.716515,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 65369,
+                "zone_one_milli": 168230,
+                "zone_two_milli": 247094,
+                "zone_three_milli": 0,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1038769693,
+        "user_id": 15299223,
+        "created_at": "2024-05-08T19:11:34.450Z",
+        "updated_at": "2024-05-08T19:56:43.913Z",
+        "start": "2024-05-08T17:31:04.800Z",
+        "end": "2024-05-08T19:06:03.200Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 12.9427,
+            "average_heart_rate": 129,
+            "max_heart_rate": 148,
+            "kilojoule": 3401.5142,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 35607,
+                "zone_two_milli": 1589993,
+                "zone_three_milli": 4043257,
+                "zone_four_milli": 29801,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1038762120,
+        "user_id": 15299223,
+        "created_at": "2024-05-08T19:02:37.187Z",
+        "updated_at": "2024-05-08T19:02:40.521Z",
+        "start": "2024-05-08T17:09:34.400Z",
+        "end": "2024-05-08T17:17:18.280Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.4722,
+            "average_heart_rate": 117,
+            "max_heart_rate": 135,
+            "kilojoule": 189.47617,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 19264,
+                "zone_two_milli": 397983,
+                "zone_three_milli": 47103,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1037315269,
+        "user_id": 15299223,
+        "created_at": "2024-05-07T18:33:45.252Z",
+        "updated_at": "2024-05-07T18:35:56.289Z",
+        "start": "2024-05-07T17:04:46.290Z",
+        "end": "2024-05-07T18:06:01.920Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 48,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 11.6492,
+            "average_heart_rate": 128,
+            "max_heart_rate": 165,
+            "kilojoule": 2151.8152,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 48065,
+                "zone_one_milli": 465312,
+                "zone_two_milli": 797872,
+                "zone_three_milli": 1683250,
+                "zone_four_milli": 681568,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1036809436,
+        "user_id": 15299223,
+        "created_at": "2024-05-07T11:28:54.685Z",
+        "updated_at": "2024-05-07T11:33:05.931Z",
+        "start": "2024-05-07T10:09:45.660Z",
+        "end": "2024-05-07T11:13:43.850Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 12.53,
+            "average_heart_rate": 133,
+            "max_heart_rate": 174,
+            "kilojoule": 2484.3289,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 9652,
+                "zone_one_milli": 209566,
+                "zone_two_milli": 817111,
+                "zone_three_milli": 1880316,
+                "zone_four_milli": 858450,
+                "zone_five_milli": 63447
+            }
+        }
+    },
+    {
+        "id": 1036021847,
+        "user_id": 15299223,
+        "created_at": "2024-05-06T21:21:24.431Z",
+        "updated_at": "2024-05-06T21:23:38.537Z",
+        "start": "2024-05-06T18:33:11.540Z",
+        "end": "2024-05-06T20:12:32.000Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 14.1105,
+            "average_heart_rate": 134,
+            "max_heart_rate": 157,
+            "kilojoule": 4001.1704,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 1015140,
+                "zone_three_milli": 4409559,
+                "zone_four_milli": 536411,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1035993244,
+        "user_id": 15299223,
+        "created_at": "2024-05-06T20:45:52.170Z",
+        "updated_at": "2024-05-06T21:21:27.552Z",
+        "start": "2024-05-06T18:07:10.290Z",
+        "end": "2024-05-06T18:15:06.660Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.84,
+            "average_heart_rate": 125,
+            "max_heart_rate": 144,
+            "kilojoule": 255.1657,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 12536,
+                "zone_two_milli": 232636,
+                "zone_three_milli": 231675,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1034571583,
+        "user_id": 15299223,
+        "created_at": "2024-05-05T18:53:17.427Z",
+        "updated_at": "2024-05-05T18:54:19.417Z",
+        "start": "2024-05-05T18:30:00.832Z",
+        "end": "2024-05-05T18:45:12.152Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 63,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 5.503,
+            "average_heart_rate": 122,
+            "max_heart_rate": 152,
+            "kilojoule": 442.5406,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 41335,
+                "zone_two_milli": 519146,
+                "zone_three_milli": 289354,
+                "zone_four_milli": 61524,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1034523969,
+        "user_id": 15299223,
+        "created_at": "2024-05-05T17:57:24.630Z",
+        "updated_at": "2024-05-05T18:53:05.193Z",
+        "start": "2024-05-05T16:07:26.290Z",
+        "end": "2024-05-05T17:49:43.380Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 13.1308,
+            "average_heart_rate": 128,
+            "max_heart_rate": 152,
+            "kilojoule": 3527.9548,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 92285,
+                "zone_two_milli": 2530186,
+                "zone_three_milli": 3339571,
+                "zone_four_milli": 174957,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1032536639,
+        "user_id": 15299223,
+        "created_at": "2024-05-04T09:29:49.764Z",
+        "updated_at": "2024-05-04T09:34:41.567Z",
+        "start": "2024-05-04T08:23:42.400Z",
+        "end": "2024-05-04T09:25:54.280Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 52,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 6.3411,
+            "average_heart_rate": 105,
+            "max_heart_rate": 137,
+            "kilojoule": 933.85095,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 283625,
+                "zone_one_milli": 2022590,
+                "zone_two_milli": 985340,
+                "zone_three_milli": 440281,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1031458985,
+        "user_id": 15299223,
+        "created_at": "2024-05-03T12:09:08.927Z",
+        "updated_at": "2024-05-04T06:21:29.569Z",
+        "start": "2024-05-03T10:46:20.890Z",
+        "end": "2024-05-03T15:07:38.960Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 52,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 11.5126,
+            "average_heart_rate": 103,
+            "max_heart_rate": 151,
+            "kilojoule": 3685.3982,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 2789757,
+                "zone_one_milli": 6991580,
+                "zone_two_milli": 4530642,
+                "zone_three_milli": 1313146,
+                "zone_four_milli": 52873,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1029191515,
+        "user_id": 15299223,
+        "created_at": "2024-05-01T20:08:56.527Z",
+        "updated_at": "2024-05-01T20:09:42.013Z",
+        "start": "2024-05-01T17:59:36.610Z",
+        "end": "2024-05-01T19:44:30.920Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 13.369,
+            "average_heart_rate": 130,
+            "max_heart_rate": 149,
+            "kilojoule": 3744.749,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 154810,
+                "zone_two_milli": 1560204,
+                "zone_three_milli": 4563329,
+                "zone_four_milli": 15381,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1028721595,
+        "user_id": 15299223,
+        "created_at": "2024-05-01T12:54:59.280Z",
+        "updated_at": "2024-05-01T20:09:31.604Z",
+        "start": "2024-05-01T11:03:35.890Z",
+        "end": "2024-05-01T12:44:07.390Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 15.9157,
+            "average_heart_rate": 141,
+            "max_heart_rate": 169,
+            "kilojoule": 4651.8315,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 5767,
+                "zone_two_milli": 569097,
+                "zone_three_milli": 3240606,
+                "zone_four_milli": 2158140,
+                "zone_five_milli": 58640
+            }
+        }
+    },
+    {
+        "id": 1027613509,
+        "user_id": 15299223,
+        "created_at": "2024-04-30T18:05:13.614Z",
+        "updated_at": "2024-04-30T18:32:40.154Z",
+        "start": "2024-04-30T16:52:04.430Z",
+        "end": "2024-04-30T18:00:03.890Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 48,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 11.3668,
+            "average_heart_rate": 124,
+            "max_heart_rate": 165,
+            "kilojoule": 2070.7239,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 4806,
+                "zone_one_milli": 733436,
+                "zone_two_milli": 1537153,
+                "zone_three_milli": 1116080,
+                "zone_four_milli": 688282,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1027613503,
+        "user_id": 15299223,
+        "created_at": "2024-04-30T18:05:13.422Z",
+        "updated_at": "2024-04-30T18:05:16.856Z",
+        "start": "2024-04-30T16:37:53.520Z",
+        "end": "2024-04-30T16:44:54.380Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.1265,
+            "average_heart_rate": 101,
+            "max_heart_rate": 114,
+            "kilojoule": 68.26821,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 3845,
+                "zone_one_milli": 391292,
+                "zone_two_milli": 25955,
+                "zone_three_milli": 0,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1027218935,
+        "user_id": 15299223,
+        "created_at": "2024-04-30T12:12:23.786Z",
+        "updated_at": "2024-04-30T12:14:35.180Z",
+        "start": "2024-04-30T11:57:11.420Z",
+        "end": "2024-04-30T12:09:29.370Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.9559,
+            "average_heart_rate": 120,
+            "max_heart_rate": 137,
+            "kilojoule": 330.8946,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 31723,
+                "zone_two_milli": 444125,
+                "zone_three_milli": 261514,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1027218921,
+        "user_id": 15299223,
+        "created_at": "2024-04-30T12:12:23.570Z",
+        "updated_at": "2024-04-30T12:12:44.514Z",
+        "start": "2024-04-30T10:28:20.120Z",
+        "end": "2024-04-30T11:52:52.670Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 15.5157,
+            "average_heart_rate": 143,
+            "max_heart_rate": 164,
+            "kilojoule": 4079.6465,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 19265,
+                "zone_two_milli": 458543,
+                "zone_three_milli": 1888967,
+                "zone_four_milli": 2706089,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1027218907,
+        "user_id": 15299223,
+        "created_at": "2024-04-30T12:12:23.359Z",
+        "updated_at": "2024-04-30T12:12:27.058Z",
+        "start": "2024-04-30T10:19:52.590Z",
+        "end": "2024-04-30T10:24:53.210Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.1593,
+            "average_heart_rate": 109,
+            "max_heart_rate": 120,
+            "kilojoule": 85.72693,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 125930,
+                "zone_two_milli": 174998,
+                "zone_three_milli": 0,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1026030187,
+        "user_id": 15299223,
+        "created_at": "2024-04-29T15:30:41.692Z",
+        "updated_at": "2024-04-29T15:31:55.828Z",
+        "start": "2024-04-29T13:34:30.451Z",
+        "end": "2024-04-29T15:29:41.265Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 15.5861,
+            "average_heart_rate": 135,
+            "max_heart_rate": 160,
+            "kilojoule": 4773.882,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 337404,
+                "zone_two_milli": 1240128,
+                "zone_three_milli": 3544332,
+                "zone_four_milli": 1788989,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1024177184,
+        "user_id": 15299223,
+        "created_at": "2024-04-28T08:51:06.624Z",
+        "updated_at": "2024-04-28T09:18:04.518Z",
+        "start": "2024-04-28T07:00:30.000Z",
+        "end": "2024-04-28T08:35:05.890Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 15.1682,
+            "average_heart_rate": 140,
+            "max_heart_rate": 155,
+            "kilojoule": 4317.663,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 272074,
+                "zone_three_milli": 3994223,
+                "zone_four_milli": 1409275,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1023376039,
+        "user_id": 15299223,
+        "created_at": "2024-04-27T15:04:26.253Z",
+        "updated_at": "2024-04-27T15:05:58.099Z",
+        "start": "2024-04-27T13:27:00.271Z",
+        "end": "2024-04-27T15:02:50.818Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 16.9589,
+            "average_heart_rate": 146,
+            "max_heart_rate": 169,
+            "kilojoule": 4861.141,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 24072,
+                "zone_two_milli": 284548,
+                "zone_three_milli": 2515742,
+                "zone_four_milli": 2625335,
+                "zone_five_milli": 300888
+            }
+        }
+    },
+    {
+        "id": 1022841910,
+        "user_id": 15299223,
+        "created_at": "2024-04-27T08:22:41.584Z",
+        "updated_at": "2024-04-27T08:23:37.244Z",
+        "start": "2024-04-27T07:44:22.060Z",
+        "end": "2024-04-27T08:20:34.750Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 0,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 12.2203,
+            "average_heart_rate": 145,
+            "max_heart_rate": 169,
+            "kilojoule": 1813.7533,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 6767,
+                "zone_one_milli": 30762,
+                "zone_two_milli": 84595,
+                "zone_three_milli": 756552,
+                "zone_four_milli": 1249699,
+                "zone_five_milli": 44219
+            }
+        }
+    },
+    {
+        "id": 1020846765,
+        "user_id": 15299223,
+        "created_at": "2024-04-25T16:11:07.371Z",
+        "updated_at": "2024-04-25T16:51:13.766Z",
+        "start": "2024-04-25T14:31:30.114Z",
+        "end": "2024-04-25T16:04:33.361Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 13.0897,
+            "average_heart_rate": 130,
+            "max_heart_rate": 157,
+            "kilojoule": 3363.5894,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 183610,
+                "zone_two_milli": 1441998,
+                "zone_three_milli": 3663517,
+                "zone_four_milli": 294161,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1020456368,
+        "user_id": 15299223,
+        "created_at": "2024-04-25T11:06:20.773Z",
+        "updated_at": "2024-04-25T11:09:33.111Z",
+        "start": "2024-04-25T10:59:11.831Z",
+        "end": "2024-04-25T11:05:38.719Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 0,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.7493,
+            "average_heart_rate": 127,
+            "max_heart_rate": 146,
+            "kilojoule": 218.31963,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 25033,
+                "zone_two_milli": 99976,
+                "zone_three_milli": 262422,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1017558068,
+        "user_id": 15299223,
+        "created_at": "2024-04-23T08:38:06.719Z",
+        "updated_at": "2024-04-23T08:39:11.477Z",
+        "start": "2024-04-23T06:58:30.771Z",
+        "end": "2024-04-23T08:30:27.718Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 15.3542,
+            "average_heart_rate": 141,
+            "max_heart_rate": 161,
+            "kilojoule": 4263.909,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 45181,
+                "zone_two_milli": 262473,
+                "zone_three_milli": 3199235,
+                "zone_four_milli": 2010096,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1016498089,
+        "user_id": 15299223,
+        "created_at": "2024-04-22T12:18:01.217Z",
+        "updated_at": "2024-04-22T12:19:16.444Z",
+        "start": "2024-04-22T10:33:00.084Z",
+        "end": "2024-04-22T12:05:44.135Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 16.5654,
+            "average_heart_rate": 145,
+            "max_heart_rate": 165,
+            "kilojoule": 4675.607,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 30800,
+                "zone_two_milli": 454698,
+                "zone_three_milli": 1593849,
+                "zone_four_milli": 3484743,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1014917381,
+        "user_id": 15299223,
+        "created_at": "2024-04-21T08:43:50.604Z",
+        "updated_at": "2024-04-21T08:54:12.068Z",
+        "start": "2024-04-21T06:58:30.309Z",
+        "end": "2024-04-21T08:41:04.604Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 17.3416,
+            "average_heart_rate": 146,
+            "max_heart_rate": 171,
+            "kilojoule": 5222.6523,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 38491,
+                "zone_two_milli": 457584,
+                "zone_three_milli": 2036050,
+                "zone_four_milli": 3398223,
+                "zone_five_milli": 223986
+            }
+        }
+    },
+    {
+        "id": 1014209649,
+        "user_id": 15299223,
+        "created_at": "2024-04-20T16:01:21.457Z",
+        "updated_at": "2024-04-20T16:12:03.678Z",
+        "start": "2024-04-20T13:31:30.613Z",
+        "end": "2024-04-20T15:01:29.320Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 16.2172,
+            "average_heart_rate": 144,
+            "max_heart_rate": 168,
+            "kilojoule": 4425.6724,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 106744,
+                "zone_two_milli": 333575,
+                "zone_three_milli": 2138909,
+                "zone_four_milli": 2722424,
+                "zone_five_milli": 97094
+            }
+        }
+    },
+    {
+        "id": 1012858116,
+        "user_id": 15299223,
+        "created_at": "2024-04-19T14:41:52.418Z",
+        "updated_at": "2024-04-19T14:52:00.521Z",
+        "start": "2024-04-19T12:54:00.600Z",
+        "end": "2024-04-19T14:23:59.306Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 15.584,
+            "average_heart_rate": 140,
+            "max_heart_rate": 169,
+            "kilojoule": 4107.676,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 24070,
+                "zone_one_milli": 256670,
+                "zone_two_milli": 625814,
+                "zone_three_milli": 2055271,
+                "zone_four_milli": 2345596,
+                "zone_five_milli": 91324
+            }
+        }
+    },
+    {
+        "id": 1011076452,
+        "user_id": 15299223,
+        "created_at": "2024-04-18T08:23:36.582Z",
+        "updated_at": "2024-04-18T08:24:18.330Z",
+        "start": "2024-04-18T06:24:00.803Z",
+        "end": "2024-04-18T07:58:29.637Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 13.3843,
+            "average_heart_rate": 130,
+            "max_heart_rate": 157,
+            "kilojoule": 3466.413,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 35607,
+                "zone_one_milli": 253784,
+                "zone_two_milli": 1319877,
+                "zone_three_milli": 3616442,
+                "zone_four_milli": 443163,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1009138722,
+        "user_id": 15299223,
+        "created_at": "2024-04-16T18:55:50.380Z",
+        "updated_at": "2024-04-16T19:01:58.378Z",
+        "start": "2024-04-16T17:05:00.000Z",
+        "end": "2024-04-16T18:05:29.000Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 48,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 11.1721,
+            "average_heart_rate": 129,
+            "max_heart_rate": 162,
+            "kilojoule": 2109.9036,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 272089,
+                "zone_two_milli": 1222787,
+                "zone_three_milli": 1453438,
+                "zone_four_milli": 680605,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1007834267,
+        "user_id": 15299223,
+        "created_at": "2024-04-15T19:49:07.273Z",
+        "updated_at": "2024-04-15T20:02:22.924Z",
+        "start": "2024-04-15T19:01:30.525Z",
+        "end": "2024-04-15T19:49:07.125Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 63,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 9.5826,
+            "average_heart_rate": 116,
+            "max_heart_rate": 179,
+            "kilojoule": 1221.474,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 439360,
+                "zone_one_milli": 1146822,
+                "zone_two_milli": 82672,
+                "zone_three_milli": 377794,
+                "zone_four_milli": 684455,
+                "zone_five_milli": 125929
+            }
+        }
+    },
+    {
+        "id": 1007560557,
+        "user_id": 15299223,
+        "created_at": "2024-04-15T14:24:28.724Z",
+        "updated_at": "2024-04-15T14:30:00.190Z",
+        "start": "2024-04-15T13:19:39.150Z",
+        "end": "2024-04-15T14:22:24.280Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 45,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 5.8075,
+            "average_heart_rate": 100,
+            "max_heart_rate": 137,
+            "kilojoule": 782.2325,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 911305,
+                "zone_one_milli": 1733280,
+                "zone_two_milli": 811343,
+                "zone_three_milli": 308579,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1005920830,
+        "user_id": 15299223,
+        "created_at": "2024-04-14T10:35:16.727Z",
+        "updated_at": "2024-04-14T10:35:20.411Z",
+        "start": "2024-04-14T09:39:00.346Z",
+        "end": "2024-04-14T10:13:29.067Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 52,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 6.8211,
+            "average_heart_rate": 118,
+            "max_heart_rate": 152,
+            "kilojoule": 861.37476,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 17303,
+                "zone_one_milli": 687372,
+                "zone_two_milli": 691168,
+                "zone_three_milli": 626773,
+                "zone_four_milli": 46143,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1004957030,
+        "user_id": 15299223,
+        "created_at": "2024-04-13T13:51:14.583Z",
+        "updated_at": "2024-04-13T14:15:34.615Z",
+        "start": "2024-04-13T13:18:49.330Z",
+        "end": "2024-04-13T13:45:59.790Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 11.2901,
+            "average_heart_rate": 148,
+            "max_heart_rate": 166,
+            "kilojoule": 1429.4135,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 1961,
+                "zone_two_milli": 79789,
+                "zone_three_milli": 447972,
+                "zone_four_milli": 1097812,
+                "zone_five_milli": 2884
+            }
+        }
+    },
+    {
+        "id": 1004957023,
+        "user_id": 15299223,
+        "created_at": "2024-04-13T13:51:14.326Z",
+        "updated_at": "2024-04-13T14:15:51.239Z",
+        "start": "2024-04-13T12:11:09.920Z",
+        "end": "2024-04-13T12:57:22.730Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 15.1626,
+            "average_heart_rate": 155,
+            "max_heart_rate": 176,
+            "kilojoule": 2755.0115,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 67291,
+                "zone_three_milli": 301853,
+                "zone_four_milli": 1880358,
+                "zone_five_milli": 523912
+            }
+        }
+    },
+    {
+        "id": 1004906108,
+        "user_id": 15299223,
+        "created_at": "2024-04-13T13:17:48.810Z",
+        "updated_at": "2024-04-13T14:16:02.572Z",
+        "start": "2024-04-13T11:06:02.340Z",
+        "end": "2024-04-13T11:56:22.420Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 16.1389,
+            "average_heart_rate": 158,
+            "max_heart_rate": 175,
+            "kilojoule": 3133.3425,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 33684,
+                "zone_three_milli": 278782,
+                "zone_four_milli": 1920690,
+                "zone_five_milli": 787314
+            }
+        }
+    },
+    {
+        "id": 1004616849,
+        "user_id": 15299223,
+        "created_at": "2024-04-13T09:58:57.620Z",
+        "updated_at": "2024-04-13T09:59:50.003Z",
+        "start": "2024-04-13T09:22:15.780Z",
+        "end": "2024-04-13T09:48:56.530Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 11.8195,
+            "average_heart_rate": 150,
+            "max_heart_rate": 169,
+            "kilojoule": 1454.3367,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 2884,
+                "zone_two_milli": 168269,
+                "zone_three_milli": 189377,
+                "zone_four_milli": 1218940,
+                "zone_five_milli": 21148
+            }
+        }
+    },
+    {
+        "id": 1004616845,
+        "user_id": 15299223,
+        "created_at": "2024-04-13T09:58:57.458Z",
+        "updated_at": "2024-04-13T09:59:29.634Z",
+        "start": "2024-04-13T08:31:52.270Z",
+        "end": "2024-04-13T09:21:50.290Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 15.713,
+            "average_heart_rate": 156,
+            "max_heart_rate": 176,
+            "kilojoule": 3015.356,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 32724,
+                "zone_three_milli": 421052,
+                "zone_four_milli": 1879356,
+                "zone_five_milli": 665228
+            }
+        }
+    },
+    {
+        "id": 1002287021,
+        "user_id": 15299223,
+        "created_at": "2024-04-11T11:33:40.320Z",
+        "updated_at": "2024-04-11T11:34:58.164Z",
+        "start": "2024-04-11T11:10:54.990Z",
+        "end": "2024-04-11T11:18:24.000Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.5629,
+            "average_heart_rate": 120,
+            "max_heart_rate": 136,
+            "kilojoule": 200.12918,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 50026,
+                "zone_two_milli": 242252,
+                "zone_three_milli": 156691,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1002227677,
+        "user_id": 15299223,
+        "created_at": "2024-04-11T11:02:18.842Z",
+        "updated_at": "2024-04-11T11:11:33.979Z",
+        "start": "2024-04-11T09:30:35.510Z",
+        "end": "2024-04-11T10:59:26.520Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 15.8369,
+            "average_heart_rate": 144,
+            "max_heart_rate": 171,
+            "kilojoule": 4327.622,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 357610,
+                "zone_three_milli": 2416762,
+                "zone_four_milli": 2487867,
+                "zone_five_milli": 68253
+            }
+        }
+    },
+    {
+        "id": 1002226772,
+        "user_id": 15299223,
+        "created_at": "2024-04-11T11:01:14.626Z",
+        "updated_at": "2024-04-11T11:01:18.101Z",
+        "start": "2024-04-11T09:21:07.920Z",
+        "end": "2024-04-11T09:28:18.520Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.6056,
+            "average_heart_rate": 120,
+            "max_heart_rate": 140,
+            "kilojoule": 197.10175,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 83673,
+                "zone_two_milli": 116318,
+                "zone_three_milli": 230714,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1001379471,
+        "user_id": 15299223,
+        "created_at": "2024-04-10T17:09:14.294Z",
+        "updated_at": "2024-04-10T17:09:38.226Z",
+        "start": "2024-04-10T15:38:36.410Z",
+        "end": "2024-04-10T16:55:26.030Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 14.2145,
+            "average_heart_rate": 140,
+            "max_heart_rate": 164,
+            "kilojoule": 3468.438,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 417208,
+                "zone_three_milli": 2558049,
+                "zone_four_milli": 1634225,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 1000138458,
+        "user_id": 15299223,
+        "created_at": "2024-04-09T18:38:23.882Z",
+        "updated_at": "2024-04-09T19:03:31.134Z",
+        "start": "2024-04-09T17:02:42.800Z",
+        "end": "2024-04-09T18:01:43.160Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 48,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 9.7813,
+            "average_heart_rate": 123,
+            "max_heart_rate": 158,
+            "kilojoule": 1772.9728,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 154808,
+                "zone_one_milli": 361422,
+                "zone_two_milli": 1191064,
+                "zone_three_milli": 1497720,
+                "zone_four_milli": 335494,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 998836561,
+        "user_id": 15299223,
+        "created_at": "2024-04-08T18:56:32.240Z",
+        "updated_at": "2024-04-08T19:11:11.962Z",
+        "start": "2024-04-08T18:46:49.690Z",
+        "end": "2024-04-08T18:55:48.870Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.5376,
+            "average_heart_rate": 116,
+            "max_heart_rate": 128,
+            "kilojoule": 210.89485,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 75020,
+                "zone_two_milli": 464313,
+                "zone_three_milli": 0,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 998822540,
+        "user_id": 15299223,
+        "created_at": "2024-04-08T18:38:21.385Z",
+        "updated_at": "2024-04-08T18:49:04.422Z",
+        "start": "2024-04-08T17:03:24.870Z",
+        "end": "2024-04-08T18:36:51.130Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 15.3641,
+            "average_heart_rate": 141,
+            "max_heart_rate": 161,
+            "kilojoule": 4322.2603,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 404750,
+                "zone_three_milli": 3247299,
+                "zone_four_milli": 1954339,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 998822319,
+        "user_id": 15299223,
+        "created_at": "2024-04-08T18:38:04.807Z",
+        "updated_at": "2024-04-08T18:38:08.236Z",
+        "start": "2024-04-08T16:39:49.890Z",
+        "end": "2024-04-08T16:47:45.980Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.5112,
+            "average_heart_rate": 119,
+            "max_heart_rate": 130,
+            "kilojoule": 203.84581,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 2923,
+                "zone_two_milli": 453736,
+                "zone_three_milli": 20188,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 998671820,
+        "user_id": 15299223,
+        "created_at": "2024-04-08T15:39:17.619Z",
+        "updated_at": "2024-04-08T15:49:21.159Z",
+        "start": "2024-04-08T14:27:53.340Z",
+        "end": "2024-04-08T15:36:05.180Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 13.1638,
+            "average_heart_rate": 137,
+            "max_heart_rate": 156,
+            "kilojoule": 2878.1174,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 24034,
+                "zone_two_milli": 943079,
+                "zone_three_milli": 2253312,
+                "zone_four_milli": 871903,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 998668622,
+        "user_id": 15299223,
+        "created_at": "2024-04-08T15:35:20.690Z",
+        "updated_at": "2024-04-08T15:35:24.194Z",
+        "start": "2024-04-08T14:20:43.380Z",
+        "end": "2024-04-08T14:26:40.290Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.3566,
+            "average_heart_rate": 116,
+            "max_heart_rate": 134,
+            "kilojoule": 139.9951,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 99054,
+                "zone_two_milli": 178803,
+                "zone_three_milli": 78827,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 997349107,
+        "user_id": 15299223,
+        "created_at": "2024-04-07T15:01:18.377Z",
+        "updated_at": "2024-04-07T15:02:36.572Z",
+        "start": "2024-04-07T14:09:00.503Z",
+        "end": "2024-04-07T14:52:09.306Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 52,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 7.617,
+            "average_heart_rate": 119,
+            "max_heart_rate": 157,
+            "kilojoule": 1137.1694,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 369180,
+                "zone_two_milli": 1464072,
+                "zone_three_milli": 624852,
+                "zone_four_milli": 130738,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 997283909,
+        "user_id": 15299223,
+        "created_at": "2024-04-07T14:12:50.279Z",
+        "updated_at": "2024-04-07T14:12:54.249Z",
+        "start": "2024-04-07T13:13:30.545Z",
+        "end": "2024-04-07T13:52:29.393Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 52,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 5.9505,
+            "average_heart_rate": 111,
+            "max_heart_rate": 136,
+            "kilojoule": 740.627,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 85557,
+                "zone_one_milli": 688333,
+                "zone_two_milli": 1360237,
+                "zone_three_milli": 204759,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 995928540,
+        "user_id": 15299223,
+        "created_at": "2024-04-06T12:59:13.007Z",
+        "updated_at": "2024-04-06T13:02:51.588Z",
+        "start": "2024-04-06T12:48:33.210Z",
+        "end": "2024-04-06T12:58:16.710Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 5.0377,
+            "average_heart_rate": 126,
+            "max_heart_rate": 142,
+            "kilojoule": 318.74512,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 241326,
+                "zone_three_milli": 342227,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 995900722,
+        "user_id": 15299223,
+        "created_at": "2024-04-06T12:40:33.574Z",
+        "updated_at": "2024-04-06T12:51:12.779Z",
+        "start": "2024-04-06T11:00:12.940Z",
+        "end": "2024-04-06T12:37:45.290Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 17.32,
+            "average_heart_rate": 148,
+            "max_heart_rate": 174,
+            "kilojoule": 5158.6133,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 108629,
+                "zone_three_milli": 1899582,
+                "zone_four_milli": 3637593,
+                "zone_five_milli": 206680
+            }
+        }
+    },
+    {
+        "id": 995660825,
+        "user_id": 15299223,
+        "created_at": "2024-04-06T09:44:24.179Z",
+        "updated_at": "2024-04-06T10:13:57.738Z",
+        "start": "2024-04-06T07:33:00.280Z",
+        "end": "2024-04-06T09:31:29.112Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 16.2797,
+            "average_heart_rate": 136,
+            "max_heart_rate": 169,
+            "kilojoule": 4974.2725,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 499918,
+                "zone_two_milli": 1472712,
+                "zone_three_milli": 2045651,
+                "zone_four_milli": 3071364,
+                "zone_five_milli": 19226
+            }
+        }
+    },
+    {
+        "id": 993945036,
+        "user_id": 15299223,
+        "created_at": "2024-04-04T21:40:51.941Z",
+        "updated_at": "2024-04-04T21:41:44.982Z",
+        "start": "2024-04-04T21:21:00.364Z",
+        "end": "2024-04-04T21:36:13.607Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.346,
+            "average_heart_rate": 98,
+            "max_heart_rate": 132,
+            "kilojoule": 176.96677,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 188417,
+                "zone_one_milli": 453736,
+                "zone_two_milli": 259592,
+                "zone_three_milli": 11536,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 993195295,
+        "user_id": 15299223,
+        "created_at": "2024-04-04T09:38:56.252Z",
+        "updated_at": "2024-04-04T09:38:59.751Z",
+        "start": "2024-04-04T09:19:26.510Z",
+        "end": "2024-04-04T09:30:18.950Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.3069,
+            "average_heart_rate": 102,
+            "max_heart_rate": 125,
+            "kilojoule": 153.78119,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 150926,
+                "zone_one_milli": 185571,
+                "zone_two_milli": 316270,
+                "zone_three_milli": 0,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 993152633,
+        "user_id": 15299223,
+        "created_at": "2024-04-04T08:50:20.920Z",
+        "updated_at": "2024-04-04T09:01:19.735Z",
+        "start": "2024-04-04T08:10:06.860Z",
+        "end": "2024-04-04T08:44:19.710Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 0,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 11.8844,
+            "average_heart_rate": 145,
+            "max_heart_rate": 173,
+            "kilojoule": 1709.9279,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 84595,
+                "zone_three_milli": 846938,
+                "zone_four_milli": 1024751,
+                "zone_five_milli": 96132
+            }
+        }
+    },
+    {
+        "id": 993136409,
+        "user_id": 15299223,
+        "created_at": "2024-04-04T08:27:00.412Z",
+        "updated_at": "2024-04-04T08:27:03.821Z",
+        "start": "2024-04-04T08:06:23.910Z",
+        "end": "2024-04-04T08:09:08.200Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 0,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.7215,
+            "average_heart_rate": 145,
+            "max_heart_rate": 161,
+            "kilojoule": 137.0283,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 7729,
+                "zone_three_milli": 72098,
+                "zone_four_milli": 84595,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 993136407,
+        "user_id": 15299223,
+        "created_at": "2024-04-04T08:27:00.210Z",
+        "updated_at": "2024-04-04T08:27:03.715Z",
+        "start": "2024-04-04T07:53:33.260Z",
+        "end": "2024-04-04T08:04:11.730Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 5.0948,
+            "average_heart_rate": 125,
+            "max_heart_rate": 149,
+            "kilojoule": 328.92926,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 9652,
+                "zone_two_milli": 418169,
+                "zone_three_milli": 196107,
+                "zone_four_milli": 14419,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 992655884,
+        "user_id": 15299223,
+        "created_at": "2024-04-03T20:56:26.044Z",
+        "updated_at": "2024-04-03T20:58:03.879Z",
+        "start": "2024-04-03T19:01:16.530Z",
+        "end": "2024-04-03T20:42:38.850Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 17.9697,
+            "average_heart_rate": 150,
+            "max_heart_rate": 174,
+            "kilojoule": 5465.401,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 11536,
+                "zone_one_milli": 68291,
+                "zone_two_milli": 265322,
+                "zone_three_milli": 1500573,
+                "zone_four_milli": 3296314,
+                "zone_five_milli": 940157
+            }
+        }
+    },
+    {
+        "id": 991262424,
+        "user_id": 15299223,
+        "created_at": "2024-04-02T18:41:10.471Z",
+        "updated_at": "2024-04-02T19:19:57.426Z",
+        "start": "2024-04-02T17:02:17.970Z",
+        "end": "2024-04-02T18:05:46.540Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 48,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 8.9762,
+            "average_heart_rate": 120,
+            "max_heart_rate": 152,
+            "kilojoule": 1688.4495,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 61523,
+                "zone_one_milli": 675800,
+                "zone_two_milli": 1352590,
+                "zone_three_milli": 1675526,
+                "zone_four_milli": 43259,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 990981264,
+        "user_id": 15299223,
+        "created_at": "2024-04-02T13:32:29.753Z",
+        "updated_at": "2024-04-02T13:32:33.254Z",
+        "start": "2024-04-02T13:22:00.000Z",
+        "end": "2024-04-02T13:30:00.000Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.5731,
+            "average_heart_rate": 119,
+            "max_heart_rate": 145,
+            "kilojoule": 202.66739,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 91363,
+                "zone_two_milli": 237445,
+                "zone_three_milli": 151885,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 990964436,
+        "user_id": 15299223,
+        "created_at": "2024-04-02T13:20:06.449Z",
+        "updated_at": "2024-04-02T13:32:10.319Z",
+        "start": "2024-04-02T13:08:00.000Z",
+        "end": "2024-04-02T13:16:00.000Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.6278,
+            "average_heart_rate": 121,
+            "max_heart_rate": 142,
+            "kilojoule": 218.20697,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 62524,
+                "zone_two_milli": 206680,
+                "zone_three_milli": 210527,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 989968953,
+        "user_id": 15299223,
+        "created_at": "2024-04-01T18:49:33.623Z",
+        "updated_at": "2024-04-01T18:49:40.590Z",
+        "start": "2024-04-01T18:40:40.300Z",
+        "end": "2024-04-01T18:48:47.950Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.9805,
+            "average_heart_rate": 130,
+            "max_heart_rate": 146,
+            "kilojoule": 286.49857,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 154808,
+                "zone_three_milli": 332614,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 989961525,
+        "user_id": 15299223,
+        "created_at": "2024-04-01T18:39:08.609Z",
+        "updated_at": "2024-04-01T18:43:05.148Z",
+        "start": "2024-04-01T17:11:21.840Z",
+        "end": "2024-04-01T18:33:14.060Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 15.1504,
+            "average_heart_rate": 144,
+            "max_heart_rate": 167,
+            "kilojoule": 3940.799,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 141349,
+                "zone_three_milli": 2535935,
+                "zone_four_milli": 2206200,
+                "zone_five_milli": 28840
+            }
+        }
+    },
+    {
+        "id": 989957867,
+        "user_id": 15299223,
+        "created_at": "2024-04-01T18:34:04.319Z",
+        "updated_at": "2024-04-01T18:41:52.796Z",
+        "start": "2024-04-01T15:35:25.990Z",
+        "end": "2024-04-01T17:00:35.740Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 16.228,
+            "average_heart_rate": 147,
+            "max_heart_rate": 175,
+            "kilojoule": 4369.8486,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 100977,
+                "zone_three_milli": 1767846,
+                "zone_four_milli": 3005051,
+                "zone_five_milli": 236479
+            }
+        }
+    },
+    {
+        "id": 989957865,
+        "user_id": 15299223,
+        "created_at": "2024-04-01T18:34:04.069Z",
+        "updated_at": "2024-04-01T18:41:30.712Z",
+        "start": "2024-04-01T15:29:49.680Z",
+        "end": "2024-04-01T15:34:50.570Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 5.1765,
+            "average_heart_rate": 143,
+            "max_heart_rate": 155,
+            "kilojoule": 237.8183,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 0,
+                "zone_three_milli": 203836,
+                "zone_four_milli": 97091,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 989791300,
+        "user_id": 15299223,
+        "created_at": "2024-04-01T15:13:22.308Z",
+        "updated_at": "2024-04-01T15:18:26.507Z",
+        "start": "2024-04-01T15:03:44.880Z",
+        "end": "2024-04-01T15:12:03.660Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.5695,
+            "average_heart_rate": 120,
+            "max_heart_rate": 132,
+            "kilojoule": 217.1182,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 23110,
+                "zone_two_milli": 431628,
+                "zone_three_milli": 44219,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 988084003,
+        "user_id": 15299223,
+        "created_at": "2024-03-31T08:27:57.504Z",
+        "updated_at": "2024-03-31T08:28:54.511Z",
+        "start": "2024-03-31T06:58:30.091Z",
+        "end": "2024-03-31T08:16:07.615Z",
+        "timezone_offset": "+02:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 16.578,
+            "average_heart_rate": 148,
+            "max_heart_rate": 178,
+            "kilojoule": 4060.3054,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 32685,
+                "zone_one_milli": 57717,
+                "zone_two_milli": 409516,
+                "zone_three_milli": 1053593,
+                "zone_four_milli": 2312894,
+                "zone_five_milli": 791158
+            }
+        }
+    },
+    {
+        "id": 987137162,
+        "user_id": 15299223,
+        "created_at": "2024-03-30T12:41:31.558Z",
+        "updated_at": "2024-03-30T13:57:14.030Z",
+        "start": "2024-03-30T11:06:14.760Z",
+        "end": "2024-03-30T13:41:07.550Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 52,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 6.1901,
+            "average_heart_rate": 96,
+            "max_heart_rate": 131,
+            "kilojoule": 1364.6409,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 2191738,
+                "zone_one_milli": 5438146,
+                "zone_two_milli": 1648629,
+                "zone_three_milli": 14420,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 985790196,
+        "user_id": 15299223,
+        "created_at": "2024-03-29T11:19:50.290Z",
+        "updated_at": "2024-03-29T15:47:46.716Z",
+        "start": "2024-03-29T10:20:53.570Z",
+        "end": "2024-03-29T15:41:33.150Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 52,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 12.0747,
+            "average_heart_rate": 103,
+            "max_heart_rate": 155,
+            "kilojoule": 4251.415,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 3109869,
+                "zone_one_milli": 8423905,
+                "zone_two_milli": 6702197,
+                "zone_three_milli": 961307,
+                "zone_four_milli": 42297,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 985203123,
+        "user_id": 15299223,
+        "created_at": "2024-03-28T22:11:34.672Z",
+        "updated_at": "2024-03-28T22:11:38.398Z",
+        "start": "2024-03-28T22:01:20.280Z",
+        "end": "2024-03-28T22:08:26.430Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.5457,
+            "average_heart_rate": 118,
+            "max_heart_rate": 141,
+            "kilojoule": 173.04398,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 124047,
+                "zone_two_milli": 131699,
+                "zone_three_milli": 170152,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 985190682,
+        "user_id": 15299223,
+        "created_at": "2024-03-28T21:55:53.654Z",
+        "updated_at": "2024-03-28T22:08:55.983Z",
+        "start": "2024-03-28T20:00:27.790Z",
+        "end": "2024-03-28T21:50:17.790Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 15.6423,
+            "average_heart_rate": 138,
+            "max_heart_rate": 163,
+            "kilojoule": 4690.4453,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 19264,
+                "zone_one_milli": 153810,
+                "zone_two_milli": 855563,
+                "zone_three_milli": 3450140,
+                "zone_four_milli": 2111976,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 985089336,
+        "user_id": 15299223,
+        "created_at": "2024-03-28T19:36:26.838Z",
+        "updated_at": "2024-03-28T19:39:56.733Z",
+        "start": "2024-03-28T19:25:10.970Z",
+        "end": "2024-03-28T19:35:02.380Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.6494,
+            "average_heart_rate": 118,
+            "max_heart_rate": 137,
+            "kilojoule": 238.49384,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 25994,
+                "zone_two_milli": 434511,
+                "zone_three_milli": 130738,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 982580711,
+        "user_id": 15299223,
+        "created_at": "2024-03-26T19:46:18.774Z",
+        "updated_at": "2024-03-26T19:49:14.807Z",
+        "start": "2024-03-26T18:01:46.110Z",
+        "end": "2024-03-26T19:06:55.800Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 48,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 13.9605,
+            "average_heart_rate": 137,
+            "max_heart_rate": 182,
+            "kilojoule": 2749.2896,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 15381,
+                "zone_one_milli": 512378,
+                "zone_two_milli": 430704,
+                "zone_three_milli": 1322762,
+                "zone_four_milli": 1376578,
+                "zone_five_milli": 251862
+            }
+        }
+    },
+    {
+        "id": 982580617,
+        "user_id": 15299223,
+        "created_at": "2024-03-26T19:46:10.424Z",
+        "updated_at": "2024-03-26T19:46:13.796Z",
+        "start": "2024-03-26T17:52:31.790Z",
+        "end": "2024-03-26T17:58:10.970Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.651,
+            "average_heart_rate": 129,
+            "max_heart_rate": 143,
+            "kilojoule": 197.70767,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 94247,
+                "zone_three_milli": 245134,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 979349562,
+        "user_id": 15299223,
+        "created_at": "2024-03-24T09:25:34.218Z",
+        "updated_at": "2024-03-24T09:25:37.876Z",
+        "start": "2024-03-24T09:05:55.150Z",
+        "end": "2024-03-24T09:20:37.390Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 5.0886,
+            "average_heart_rate": 117,
+            "max_heart_rate": 142,
+            "kilojoule": 348.04984,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 21149,
+                "zone_one_milli": 226869,
+                "zone_two_milli": 255747,
+                "zone_three_milli": 378754,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 979333338,
+        "user_id": 15299223,
+        "created_at": "2024-03-24T09:06:54.176Z",
+        "updated_at": "2024-03-24T09:25:54.660Z",
+        "start": "2024-03-24T07:29:39.350Z",
+        "end": "2024-03-24T08:59:23.950Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 14.257,
+            "average_heart_rate": 136,
+            "max_heart_rate": 168,
+            "kilojoule": 3684.9863,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 30762,
+                "zone_two_milli": 1193020,
+                "zone_three_milli": 2783950,
+                "zone_four_milli": 1348718,
+                "zone_five_milli": 27876
+            }
+        }
+    },
+    {
+        "id": 979349454,
+        "user_id": 15299223,
+        "created_at": "2024-03-24T09:25:29.383Z",
+        "updated_at": "2024-03-24T09:25:32.780Z",
+        "start": "2024-03-24T07:19:00.020Z",
+        "end": "2024-03-24T07:27:10.760Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.7547,
+            "average_heart_rate": 125,
+            "max_heart_rate": 141,
+            "kilojoule": 248.66344,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 7729,
+                "zone_two_milli": 255709,
+                "zone_three_milli": 226868,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 978344731,
+        "user_id": 15299223,
+        "created_at": "2024-03-23T12:10:34.986Z",
+        "updated_at": "2024-03-23T12:54:04.098Z",
+        "start": "2024-03-23T10:31:30.438Z",
+        "end": "2024-03-23T11:56:59.000Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 13.1369,
+            "average_heart_rate": 131,
+            "max_heart_rate": 165,
+            "kilojoule": 3126.0493,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 17303,
+                "zone_one_milli": 411476,
+                "zone_two_milli": 1098763,
+                "zone_three_milli": 2853149,
+                "zone_four_milli": 748857,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 977479847,
+        "user_id": 15299223,
+        "created_at": "2024-03-22T16:09:21.573Z",
+        "updated_at": "2024-03-22T16:11:04.196Z",
+        "start": "2024-03-22T15:08:29.250Z",
+        "end": "2024-03-22T16:07:27.800Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 0,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 15.1455,
+            "average_heart_rate": 150,
+            "max_heart_rate": 171,
+            "kilojoule": 3181.256,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 16380,
+                "zone_two_milli": 58641,
+                "zone_three_milli": 1250660,
+                "zone_four_milli": 2080272,
+                "zone_five_milli": 132661
+            }
+        }
+    },
+    {
+        "id": 976270756,
+        "user_id": 15299223,
+        "created_at": "2024-03-21T16:34:42.167Z",
+        "updated_at": "2024-03-21T16:46:22.779Z",
+        "start": "2024-03-21T16:24:54.000Z",
+        "end": "2024-03-21T16:29:07.350Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.3078,
+            "average_heart_rate": 120,
+            "max_heart_rate": 149,
+            "kilojoule": 110.81457,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 51949,
+                "zone_two_milli": 84596,
+                "zone_three_milli": 114380,
+                "zone_four_milli": 1923,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 976258788,
+        "user_id": 15299223,
+        "created_at": "2024-03-21T16:17:38.789Z",
+        "updated_at": "2024-03-21T16:17:42.758Z",
+        "start": "2024-03-21T15:14:12.470Z",
+        "end": "2024-03-21T15:57:04.590Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 45,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 6.0282,
+            "average_heart_rate": 109,
+            "max_heart_rate": 152,
+            "kilojoule": 734.66785,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 94210,
+                "zone_one_milli": 1074783,
+                "zone_two_milli": 1143954,
+                "zone_three_milli": 207642,
+                "zone_four_milli": 51911,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 976210506,
+        "user_id": 15299223,
+        "created_at": "2024-03-21T15:13:11.775Z",
+        "updated_at": "2024-03-21T15:20:11.375Z",
+        "start": "2024-03-21T15:06:24.250Z",
+        "end": "2024-03-21T15:11:59.850Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.4268,
+            "average_heart_rate": 122,
+            "max_heart_rate": 140,
+            "kilojoule": 158.29175,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 13459,
+                "zone_two_milli": 214409,
+                "zone_three_milli": 108628,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 975024745,
+        "user_id": 15299223,
+        "created_at": "2024-03-20T17:00:58.902Z",
+        "updated_at": "2024-03-20T17:01:44.582Z",
+        "start": "2024-03-20T16:54:02.259Z",
+        "end": "2024-03-20T17:00:57.687Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.0482,
+            "average_heart_rate": 94,
+            "max_heart_rate": 117,
+            "kilojoule": 62.98163,
+            "percent_recorded": 100.0,
+            "distance_meter": 1786.7579,
+            "altitude_gain_meter": 34.250294,
+            "altitude_change_meter": -23.67326,
+            "zone_duration": {
+                "zone_zero_milli": 131700,
+                "zone_one_milli": 224983,
+                "zone_two_milli": 58641,
+                "zone_three_milli": 0,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 974809629,
+        "user_id": 15299223,
+        "created_at": "2024-03-20T13:14:51.733Z",
+        "updated_at": "2024-03-20T13:14:55.294Z",
+        "start": "2024-03-20T12:50:00.000Z",
+        "end": "2024-03-20T13:05:00.000Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.9722,
+            "average_heart_rate": 114,
+            "max_heart_rate": 139,
+            "kilojoule": 345.51678,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 125008,
+                "zone_one_milli": 150926,
+                "zone_two_milli": 348956,
+                "zone_three_milli": 275895,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 974759206,
+        "user_id": 15299223,
+        "created_at": "2024-03-20T12:40:10.297Z",
+        "updated_at": "2024-03-20T12:40:14.684Z",
+        "start": "2024-03-20T10:45:00.000Z",
+        "end": "2024-03-20T11:10:00.000Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 5.3184,
+            "average_heart_rate": 112,
+            "max_heart_rate": 135,
+            "kilojoule": 503.25613,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 24033,
+                "zone_one_milli": 448007,
+                "zone_two_milli": 961310,
+                "zone_three_milli": 67291,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 973852811,
+        "user_id": 15299223,
+        "created_at": "2024-03-19T19:37:47.515Z",
+        "updated_at": "2024-03-19T19:39:55.593Z",
+        "start": "2024-03-19T18:03:25.640Z",
+        "end": "2024-03-19T19:04:22.370Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 48,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 13.3427,
+            "average_heart_rate": 138,
+            "max_heart_rate": 172,
+            "kilojoule": 2650.1667,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 57716,
+                "zone_two_milli": 670034,
+                "zone_three_milli": 1688058,
+                "zone_four_milli": 1110309,
+                "zone_five_milli": 129777
+            }
+        }
+    },
+    {
+        "id": 973852808,
+        "user_id": 15299223,
+        "created_at": "2024-03-19T19:37:47.297Z",
+        "updated_at": "2024-03-19T19:37:50.887Z",
+        "start": "2024-03-19T18:01:00.380Z",
+        "end": "2024-03-19T18:02:56.620Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 48,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 2.2974,
+            "average_heart_rate": 97,
+            "max_heart_rate": 107,
+            "kilojoule": 14.581847,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 116357,
+                "zone_two_milli": 0,
+                "zone_three_milli": 0,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 973852806,
+        "user_id": 15299223,
+        "created_at": "2024-03-19T19:37:47.051Z",
+        "updated_at": "2024-03-19T19:37:50.434Z",
+        "start": "2024-03-19T17:52:46.000Z",
+        "end": "2024-03-19T17:57:01.860Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 0,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.6215,
+            "average_heart_rate": 131,
+            "max_heart_rate": 156,
+            "kilojoule": 156.18011,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 21188,
+                "zone_two_milli": 54794,
+                "zone_three_milli": 112472,
+                "zone_four_milli": 67292,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 973387296,
+        "user_id": 15299223,
+        "created_at": "2024-03-19T11:56:28.941Z",
+        "updated_at": "2024-03-19T12:02:45.582Z",
+        "start": "2024-03-19T11:25:31.510Z",
+        "end": "2024-03-19T11:55:23.750Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 0,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 13.7516,
+            "average_heart_rate": 158,
+            "max_heart_rate": 179,
+            "kilojoule": 1842.2827,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 1000,
+                "zone_one_milli": 23072,
+                "zone_two_milli": 40375,
+                "zone_three_milli": 190340,
+                "zone_four_milli": 823843,
+                "zone_five_milli": 714234
+            }
+        }
+    },
+    {
+        "id": 970979811,
+        "user_id": 15299223,
+        "created_at": "2024-03-17T14:03:10.069Z",
+        "updated_at": "2024-03-17T16:15:41.328Z",
+        "start": "2024-03-17T13:32:51.000Z",
+        "end": "2024-03-17T13:57:17.970Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 10.3127,
+            "average_heart_rate": 147,
+            "max_heart_rate": 157,
+            "kilojoule": 1274.2986,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 0,
+                "zone_three_milli": 399943,
+                "zone_four_milli": 1067052,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 970979805,
+        "user_id": 15299223,
+        "created_at": "2024-03-17T14:03:09.851Z",
+        "updated_at": "2024-03-17T14:09:13.057Z",
+        "start": "2024-03-17T11:59:30.510Z",
+        "end": "2024-03-17T13:32:18.560Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 17.1736,
+            "average_heart_rate": 148,
+            "max_heart_rate": 173,
+            "kilojoule": 4923.8066,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 9613,
+                "zone_two_milli": 90401,
+                "zone_three_milli": 1976446,
+                "zone_four_milli": 3051197,
+                "zone_five_milli": 440279
+            }
+        }
+    },
+    {
+        "id": 969932208,
+        "user_id": 15299223,
+        "created_at": "2024-03-16T16:02:47.601Z",
+        "updated_at": "2024-03-16T16:03:54.907Z",
+        "start": "2024-03-16T14:12:37.580Z",
+        "end": "2024-03-16T15:48:29.120Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 13.9483,
+            "average_heart_rate": 135,
+            "max_heart_rate": 154,
+            "kilojoule": 3862.1301,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 25956,
+                "zone_two_milli": 642192,
+                "zone_three_milli": 4889212,
+                "zone_four_milli": 194185,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 968839375,
+        "user_id": 15299223,
+        "created_at": "2024-03-15T18:57:36.385Z",
+        "updated_at": "2024-03-15T18:58:39.665Z",
+        "start": "2024-03-15T18:42:03.580Z",
+        "end": "2024-03-15T18:56:46.450Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 5.1963,
+            "average_heart_rate": 121,
+            "max_heart_rate": 141,
+            "kilojoule": 403.582,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 53834,
+                "zone_two_milli": 567210,
+                "zone_three_milli": 262437,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 968831088,
+        "user_id": 15299223,
+        "created_at": "2024-03-15T18:45:22.723Z",
+        "updated_at": "2024-03-16T16:05:11.148Z",
+        "start": "2024-03-15T17:09:41.750Z",
+        "end": "2024-03-15T18:35:45.940Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 14.5643,
+            "average_heart_rate": 139,
+            "max_heart_rate": 165,
+            "kilojoule": 3779.977,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 2884,
+                "zone_two_milli": 378755,
+                "zone_three_milli": 3395377,
+                "zone_four_milli": 1387170,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 968741872,
+        "user_id": 15299223,
+        "created_at": "2024-03-15T16:45:30.033Z",
+        "updated_at": "2024-03-15T16:57:22.071Z",
+        "start": "2024-03-15T16:24:40.200Z",
+        "end": "2024-03-15T16:42:57.240Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 5.4923,
+            "average_heart_rate": 118,
+            "max_heart_rate": 146,
+            "kilojoule": 444.0677,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 3846,
+                "zone_one_milli": 319190,
+                "zone_two_milli": 431630,
+                "zone_three_milli": 342225,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 968659253,
+        "user_id": 15299223,
+        "created_at": "2024-03-15T15:03:25.697Z",
+        "updated_at": "2024-03-15T15:08:49.221Z",
+        "start": "2024-03-15T14:55:47.850Z",
+        "end": "2024-03-15T15:01:20.980Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.831,
+            "average_heart_rate": 130,
+            "max_heart_rate": 155,
+            "kilojoule": 196.63828,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 22148,
+                "zone_two_milli": 111512,
+                "zone_three_milli": 115357,
+                "zone_four_milli": 84595,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 968659217,
+        "user_id": 15299223,
+        "created_at": "2024-03-15T15:03:23.499Z",
+        "updated_at": "2024-03-15T15:03:27.371Z",
+        "start": "2024-03-15T14:09:30.460Z",
+        "end": "2024-03-15T14:53:36.450Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 45,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 5.4709,
+            "average_heart_rate": 104,
+            "max_heart_rate": 141,
+            "kilojoule": 617.3016,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 277819,
+                "zone_one_milli": 1094898,
+                "zone_two_milli": 1069960,
+                "zone_three_milli": 202838,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 968659100,
+        "user_id": 15299223,
+        "created_at": "2024-03-15T15:03:15.935Z",
+        "updated_at": "2024-03-15T15:06:46.275Z",
+        "start": "2024-03-15T13:59:46.220Z",
+        "end": "2024-03-15T14:06:58.070Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 5.1341,
+            "average_heart_rate": 132,
+            "max_heart_rate": 154,
+            "kilojoule": 267.59735,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 25954,
+                "zone_two_milli": 102900,
+                "zone_three_milli": 232637,
+                "zone_four_milli": 70175,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 968659097,
+        "user_id": 15299223,
+        "created_at": "2024-03-15T15:03:15.706Z",
+        "updated_at": "2024-03-15T15:03:19.123Z",
+        "start": "2024-03-15T13:46:28.780Z",
+        "end": "2024-03-15T13:57:45.750Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.7973,
+            "average_heart_rate": 116,
+            "max_heart_rate": 138,
+            "kilojoule": 272.5391,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 29802,
+                "zone_one_milli": 131737,
+                "zone_two_milli": 279739,
+                "zone_three_milli": 236468,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 961110119,
+        "user_id": 15299223,
+        "created_at": "2024-03-09T15:23:10.114Z",
+        "updated_at": "2024-03-09T15:38:00.477Z",
+        "start": "2024-03-09T12:56:25.180Z",
+        "end": "2024-03-09T15:13:37.940Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 13.4863,
+            "average_heart_rate": 125,
+            "max_heart_rate": 147,
+            "kilojoule": 4253.998,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 557559,
+                "zone_two_milli": 3077181,
+                "zone_three_milli": 4597928,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 960698533,
+        "user_id": 15299223,
+        "created_at": "2024-03-09T10:15:14.983Z",
+        "updated_at": "2024-03-09T10:15:27.501Z",
+        "start": "2024-03-09T09:14:15.100Z",
+        "end": "2024-03-09T10:01:34.160Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 13.7759,
+            "average_heart_rate": 147,
+            "max_heart_rate": 175,
+            "kilojoule": 2411.7422,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 1923,
+                "zone_two_milli": 235559,
+                "zone_three_milli": 872873,
+                "zone_four_milli": 1504444,
+                "zone_five_milli": 223984
+            }
+        }
+    },
+    {
+        "id": 960744832,
+        "user_id": 15299223,
+        "created_at": "2024-03-09T11:06:42.766Z",
+        "updated_at": "2024-03-09T11:07:25.736Z",
+        "start": "2024-03-09T08:45:00.000Z",
+        "end": "2024-03-09T08:57:00.000Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 5.7596,
+            "average_heart_rate": 130,
+            "max_heart_rate": 156,
+            "kilojoule": 431.62256,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 322998,
+                "zone_three_milli": 276897,
+                "zone_four_milli": 120163,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 960226327,
+        "user_id": 15299223,
+        "created_at": "2024-03-08T21:49:57.418Z",
+        "updated_at": "2024-03-08T21:50:26.051Z",
+        "start": "2024-03-08T20:01:08.460Z",
+        "end": "2024-03-08T21:34:17.960Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 13.6543,
+            "average_heart_rate": 129,
+            "max_heart_rate": 161,
+            "kilojoule": 3311.7546,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 6729,
+                "zone_one_milli": 569132,
+                "zone_two_milli": 1737082,
+                "zone_three_milli": 2018752,
+                "zone_four_milli": 1257390,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 959975189,
+        "user_id": 15299223,
+        "created_at": "2024-03-08T16:11:08.543Z",
+        "updated_at": "2024-03-08T16:11:12.048Z",
+        "start": "2024-03-08T15:50:23.960Z",
+        "end": "2024-03-08T15:58:29.960Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.3993,
+            "average_heart_rate": 111,
+            "max_heart_rate": 144,
+            "kilojoule": 157.2863,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 189416,
+                "zone_two_milli": 184571,
+                "zone_three_milli": 111512,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 959949454,
+        "user_id": 15299223,
+        "created_at": "2024-03-08T15:43:14.758Z",
+        "updated_at": "2024-03-08T15:49:02.367Z",
+        "start": "2024-03-08T15:07:09.410Z",
+        "end": "2024-03-08T15:42:34.470Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 45,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.4478,
+            "average_heart_rate": 95,
+            "max_heart_rate": 129,
+            "kilojoule": 288.94525,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 563327,
+                "zone_one_milli": 1262236,
+                "zone_two_milli": 294147,
+                "zone_three_milli": 4806,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 959934532,
+        "user_id": 15299223,
+        "created_at": "2024-03-08T15:27:54.097Z",
+        "updated_at": "2024-03-08T15:27:57.474Z",
+        "start": "2024-03-08T14:58:52.080Z",
+        "end": "2024-03-08T15:03:15.280Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.1205,
+            "average_heart_rate": 108,
+            "max_heart_rate": 126,
+            "kilojoule": 68.41795,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 150961,
+                "zone_two_milli": 111500,
+                "zone_three_milli": 0,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 958843177,
+        "user_id": 15299223,
+        "created_at": "2024-03-07T18:15:52.511Z",
+        "updated_at": "2024-03-07T18:26:21.250Z",
+        "start": "2024-03-07T18:07:01.640Z",
+        "end": "2024-03-07T18:15:08.360Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 5.4263,
+            "average_heart_rate": 136,
+            "max_heart_rate": 152,
+            "kilojoule": 336.65308,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 77904,
+                "zone_three_milli": 309540,
+                "zone_four_milli": 99016,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 958843142,
+        "user_id": 15299223,
+        "created_at": "2024-03-07T18:15:49.908Z",
+        "updated_at": "2024-03-07T18:27:14.794Z",
+        "start": "2024-03-07T16:27:57.720Z",
+        "end": "2024-03-07T18:06:36.460Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 12.3349,
+            "average_heart_rate": 125,
+            "max_heart_rate": 152,
+            "kilojoule": 3153.8547,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 192301,
+                "zone_two_milli": 2799329,
+                "zone_three_milli": 2838729,
+                "zone_four_milli": 88440,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 958838680,
+        "user_id": 15299223,
+        "created_at": "2024-03-07T18:10:07.840Z",
+        "updated_at": "2024-03-07T18:10:11.215Z",
+        "start": "2024-03-07T16:15:11.290Z",
+        "end": "2024-03-07T16:23:10.720Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.3567,
+            "average_heart_rate": 111,
+            "max_heart_rate": 125,
+            "kilojoule": 151.85088,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 144235,
+                "zone_two_milli": 334535,
+                "zone_three_milli": 0,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 956440267,
+        "user_id": 15299223,
+        "created_at": "2024-03-05T20:37:54.494Z",
+        "updated_at": "2024-03-05T20:38:45.728Z",
+        "start": "2024-03-05T20:32:00.000Z",
+        "end": "2024-03-05T20:37:00.000Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.559,
+            "average_heart_rate": 129,
+            "max_heart_rate": 148,
+            "kilojoule": 174.11938,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 126932,
+                "zone_three_milli": 168228,
+                "zone_four_milli": 4807,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 956394926,
+        "user_id": 15299223,
+        "created_at": "2024-03-05T19:40:26.395Z",
+        "updated_at": "2024-03-05T19:41:40.589Z",
+        "start": "2024-03-05T18:05:00.000Z",
+        "end": "2024-03-05T19:05:00.000Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 48,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 12.4789,
+            "average_heart_rate": 134,
+            "max_heart_rate": 163,
+            "kilojoule": 2380.055,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 136506,
+                "zone_one_milli": 156731,
+                "zone_two_milli": 546989,
+                "zone_three_milli": 1710148,
+                "zone_four_milli": 1049750,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 956397203,
+        "user_id": 15299223,
+        "created_at": "2024-03-05T19:43:17.069Z",
+        "updated_at": "2024-03-05T19:43:20.784Z",
+        "start": "2024-03-05T17:40:00.000Z",
+        "end": "2024-03-05T17:50:00.000Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 3.9864,
+            "average_heart_rate": 95,
+            "max_heart_rate": 111,
+            "kilojoule": 62.99404,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 98092,
+                "zone_one_milli": 500841,
+                "zone_two_milli": 962,
+                "zone_three_milli": 0,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 955155157,
+        "user_id": 15299223,
+        "created_at": "2024-03-04T20:54:20.405Z",
+        "updated_at": "2024-03-04T20:54:23.916Z",
+        "start": "2024-03-04T20:10:00.000Z",
+        "end": "2024-03-04T20:20:00.000Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.1099,
+            "average_heart_rate": 100,
+            "max_heart_rate": 124,
+            "kilojoule": 96.80871,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 109589,
+                "zone_one_milli": 300928,
+                "zone_two_milli": 190324,
+                "zone_three_milli": 0,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 955115829,
+        "user_id": 15299223,
+        "created_at": "2024-03-04T20:03:28.478Z",
+        "updated_at": "2024-03-04T20:52:21.503Z",
+        "start": "2024-03-04T17:55:20.000Z",
+        "end": "2024-03-04T20:00:59.310Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 13.8144,
+            "average_heart_rate": 130,
+            "max_heart_rate": 155,
+            "kilojoule": 4312.05,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 33647,
+                "zone_two_milli": 2306179,
+                "zone_three_milli": 5028740,
+                "zone_four_milli": 168229,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 955154594,
+        "user_id": 15299223,
+        "created_at": "2024-03-04T20:53:31.020Z",
+        "updated_at": "2024-03-04T20:53:34.476Z",
+        "start": "2024-03-04T17:45:00.000Z",
+        "end": "2024-03-04T17:55:00.000Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.8948,
+            "average_heart_rate": 122,
+            "max_heart_rate": 146,
+            "kilojoule": 270.34125,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 119241,
+                "zone_two_milli": 170153,
+                "zone_three_milli": 310501,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 953714160,
+        "user_id": 15299223,
+        "created_at": "2024-03-03T17:06:36.388Z",
+        "updated_at": "2024-03-03T17:07:56.901Z",
+        "start": "2024-03-03T15:29:19.600Z",
+        "end": "2024-03-03T17:00:17.870Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 14.078,
+            "average_heart_rate": 139,
+            "max_heart_rate": 156,
+            "kilojoule": 3802.301,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 9613,
+                "zone_two_milli": 371103,
+                "zone_three_milli": 4045142,
+                "zone_four_milli": 1032428,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 953596959,
+        "user_id": 15299223,
+        "created_at": "2024-03-03T15:28:34.156Z",
+        "updated_at": "2024-03-03T15:28:38.020Z",
+        "start": "2024-03-03T14:36:00.945Z",
+        "end": "2024-03-03T15:08:59.317Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 63,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 5.3414,
+            "average_heart_rate": 112,
+            "max_heart_rate": 129,
+            "kilojoule": 532.34296,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 391250,
+                "zone_two_milli": 1580432,
+                "zone_three_milli": 6729,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 953400131,
+        "user_id": 15299223,
+        "created_at": "2024-03-03T13:13:46.343Z",
+        "updated_at": "2024-03-03T13:18:15.620Z",
+        "start": "2024-03-03T12:25:44.240Z",
+        "end": "2024-03-03T13:00:42.320Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 63,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 5.1903,
+            "average_heart_rate": 109,
+            "max_heart_rate": 142,
+            "kilojoule": 490.95898,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 13458,
+                "zone_one_milli": 837339,
+                "zone_two_milli": 1131460,
+                "zone_three_milli": 116318,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 953205736,
+        "user_id": 15299223,
+        "created_at": "2024-03-03T10:30:33.322Z",
+        "updated_at": "2024-03-03T10:30:37.116Z",
+        "start": "2024-03-03T09:22:01.320Z",
+        "end": "2024-03-03T09:50:51.960Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 63,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.8295,
+            "average_heart_rate": 106,
+            "max_heart_rate": 142,
+            "kilojoule": 379.76242,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 200954,
+                "zone_one_milli": 584472,
+                "zone_two_milli": 874793,
+                "zone_three_milli": 71137,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 952356942,
+        "user_id": 15299223,
+        "created_at": "2024-03-02T14:57:53.500Z",
+        "updated_at": "2024-03-02T14:57:57.265Z",
+        "start": "2024-03-02T14:48:06.890Z",
+        "end": "2024-03-02T14:57:07.290Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.3453,
+            "average_heart_rate": 112,
+            "max_heart_rate": 127,
+            "kilojoule": 150.04688,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 148041,
+                "zone_two_milli": 392253,
+                "zone_three_milli": 0,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 952321121,
+        "user_id": 15299223,
+        "created_at": "2024-03-02T14:33:01.932Z",
+        "updated_at": "2024-03-02T14:40:49.811Z",
+        "start": "2024-03-02T12:32:31.140Z",
+        "end": "2024-03-02T14:30:25.590Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 13.8389,
+            "average_heart_rate": 132,
+            "max_heart_rate": 149,
+            "kilojoule": 4282.537,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 971921,
+                "zone_three_milli": 6019685,
+                "zone_four_milli": 82671,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 952321113,
+        "user_id": 15299223,
+        "created_at": "2024-03-02T14:33:01.702Z",
+        "updated_at": "2024-03-02T14:33:05.207Z",
+        "start": "2024-03-02T12:14:11.680Z",
+        "end": "2024-03-02T12:25:22.050Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.4632,
+            "average_heart_rate": 112,
+            "max_heart_rate": 128,
+            "kilojoule": 192.25171,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 159616,
+                "zone_two_milli": 511386,
+                "zone_three_milli": 0,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 951968547,
+        "user_id": 15299223,
+        "created_at": "2024-03-02T09:56:58.692Z",
+        "updated_at": "2024-03-02T09:57:02.127Z",
+        "start": "2024-03-02T09:35:00.000Z",
+        "end": "2024-03-02T09:46:00.000Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.3997,
+            "average_heart_rate": 100,
+            "max_heart_rate": 145,
+            "kilojoule": 162.18456,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 251862,
+                "zone_one_milli": 216334,
+                "zone_two_milli": 10575,
+                "zone_three_milli": 181687,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 951953039,
+        "user_id": 15299223,
+        "created_at": "2024-03-02T09:36:16.687Z",
+        "updated_at": "2024-03-02T09:39:23.048Z",
+        "start": "2024-03-02T08:50:59.180Z",
+        "end": "2024-03-02T09:02:13.000Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.6596,
+            "average_heart_rate": 112,
+            "max_heart_rate": 140,
+            "kilojoule": 232.77313,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 81711,
+                "zone_one_milli": 195187,
+                "zone_two_milli": 99013,
+                "zone_three_milli": 298005,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 951393206,
+        "user_id": 15299223,
+        "created_at": "2024-03-01T18:56:19.090Z",
+        "updated_at": "2024-03-01T19:01:28.440Z",
+        "start": "2024-03-01T18:48:28.370Z",
+        "end": "2024-03-01T18:54:12.730Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 5.0368,
+            "average_heart_rate": 136,
+            "max_heart_rate": 148,
+            "kilojoule": 240.32637,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 0,
+                "zone_two_milli": 49065,
+                "zone_three_milli": 283586,
+                "zone_four_milli": 11535,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 951379561,
+        "user_id": 15299223,
+        "created_at": "2024-03-01T18:37:49.647Z",
+        "updated_at": "2024-03-02T11:58:04.269Z",
+        "start": "2024-03-01T17:01:30.390Z",
+        "end": "2024-03-01T18:29:27.950Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 249,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 13.7577,
+            "average_heart_rate": 133,
+            "max_heart_rate": 161,
+            "kilojoule": 3450.8635,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 58679,
+                "zone_two_milli": 1565969,
+                "zone_three_milli": 2519590,
+                "zone_four_milli": 1133383,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 951290318,
+        "user_id": 15299223,
+        "created_at": "2024-03-01T16:40:14.611Z",
+        "updated_at": "2024-03-01T16:41:01.829Z",
+        "start": "2024-03-01T16:31:56.635Z",
+        "end": "2024-03-01T16:40:13.088Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.6347,
+            "average_heart_rate": 118,
+            "max_heart_rate": 148,
+            "kilojoule": 208.14807,
+            "percent_recorded": 100.0,
+            "distance_meter": 2368.175,
+            "altitude_gain_meter": 44.229282,
+            "altitude_change_meter": -21.247276,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 100015,
+                "zone_two_milli": 246094,
+                "zone_three_milli": 149964,
+                "zone_four_milli": 962,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 950103720,
+        "user_id": 15299223,
+        "created_at": "2024-02-29T17:01:57.146Z",
+        "updated_at": "2024-02-29T17:02:37.907Z",
+        "start": "2024-02-29T16:56:26.026Z",
+        "end": "2024-02-29T17:01:55.524Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.772,
+            "average_heart_rate": 126,
+            "max_heart_rate": 155,
+            "kilojoule": 187.6942,
+            "percent_recorded": 100.0,
+            "distance_meter": 1356.1135,
+            "altitude_gain_meter": 44.374554,
+            "altitude_change_meter": 19.49783,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 84634,
+                "zone_two_milli": 48066,
+                "zone_three_milli": 124954,
+                "zone_four_milli": 72098,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 950081699,
+        "user_id": 15299223,
+        "created_at": "2024-02-29T16:31:15.854Z",
+        "updated_at": "2024-02-29T16:31:56.142Z",
+        "start": "2024-02-29T15:54:13.396Z",
+        "end": "2024-02-29T16:31:15.039Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 45,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 7.3347,
+            "average_heart_rate": 118,
+            "max_heart_rate": 149,
+            "kilojoule": 1007.97363,
+            "percent_recorded": 100.0,
+            "distance_meter": 0.0,
+            "altitude_gain_meter": 0.0,
+            "altitude_change_meter": 0.0,
+            "zone_duration": {
+                "zone_zero_milli": 31763,
+                "zone_one_milli": 477767,
+                "zone_two_milli": 855535,
+                "zone_three_milli": 838263,
+                "zone_four_milli": 18264,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 950045961,
+        "user_id": 15299223,
+        "created_at": "2024-02-29T15:47:27.659Z",
+        "updated_at": "2024-02-29T15:48:36.164Z",
+        "start": "2024-02-29T15:43:04.789Z",
+        "end": "2024-02-29T15:47:26.196Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.2022,
+            "average_heart_rate": 112,
+            "max_heart_rate": 124,
+            "kilojoule": 95.223465,
+            "percent_recorded": 100.0,
+            "distance_meter": 1359.368,
+            "altitude_gain_meter": 19.811995,
+            "altitude_change_meter": -19.956522,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 76944,
+                "zone_two_milli": 184570,
+                "zone_three_milli": 0,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 949053532,
+        "user_id": 15299223,
+        "created_at": "2024-02-28T20:50:28.034Z",
+        "updated_at": "2024-02-28T20:51:27.301Z",
+        "start": "2024-02-28T20:39:48.942Z",
+        "end": "2024-02-28T20:50:27.349Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 4.7555,
+            "average_heart_rate": 116,
+            "max_heart_rate": 143,
+            "kilojoule": 267.92538,
+            "percent_recorded": 100.0,
+            "distance_meter": 3513.4878,
+            "altitude_gain_meter": 84.94763,
+            "altitude_change_meter": -6.331883,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 124047,
+                "zone_two_milli": 419131,
+                "zone_three_milli": 95169,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    },
+    {
+        "id": 948871660,
+        "user_id": 15299223,
+        "created_at": "2024-02-28T16:53:09.396Z",
+        "updated_at": "2024-02-28T16:53:59.918Z",
+        "start": "2024-02-28T16:43:38.911Z",
+        "end": "2024-02-28T16:53:08.328Z",
+        "timezone_offset": "+01:00",
+        "sport_id": 1,
+        "score_state": "SCORED",
+        "score": {
+            "strain": 5.0943,
+            "average_heart_rate": 124,
+            "max_heart_rate": 141,
+            "kilojoule": 305.84152,
+            "percent_recorded": 100.0,
+            "distance_meter": 3035.0786,
+            "altitude_gain_meter": 104.460365,
+            "altitude_change_meter": 20.802427,
+            "zone_duration": {
+                "zone_zero_milli": 0,
+                "zone_one_milli": 88479,
+                "zone_two_milli": 108629,
+                "zone_three_milli": 372025,
+                "zone_four_milli": 0,
+                "zone_five_milli": 0
+            }
+        }
+    }
+]

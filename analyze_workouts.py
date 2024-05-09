@@ -1,7 +1,7 @@
 import json
 from datetime import datetime, timedelta
 
-with open("workouts.json", "r") as f:
+with open("data/workouts.json", "r") as f:
     workouts = json.load(f)
 
 def filter_workouts():
